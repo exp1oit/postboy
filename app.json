@@ -2,7 +2,7 @@
   "name": "Postboy API",
   "description": "Delivery service for Email or SMS messages.",
   "keywords": ["elixir", "application", "email", "sms", "delivery", "service", "microservice", "scheduler"],
-  "repository": "https://github.com/nebo15/postboy.api",
+  "repository": "https://github.com/exp1oit/postboy_api",
   "success_url": "/",
   "env": {
     "HOST": {
